@@ -32,7 +32,7 @@ To contribute:
 ## Getting Started
 To experience Mathville and contribute to its development, follow the steps below:
 
-1. **Clone the Repository**: `git clone https://github.com/YourUsername/Mathville.git`
+1. **Clone the Repository**: `git clone https://github.com/deadshot-21/mathville.git`
 2. **Set Up Flutter and Unity**: Follow the installation guides in the respective directories.
 3. **Run the Application**: Build and run the app in your preferred development environment.
 
